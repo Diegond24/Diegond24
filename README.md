@@ -1,4 +1,19 @@
-## Hi there 👋
+<h1 align='center'> Hola, soy Diego Pineda👋</h1> 
+
+<!-- Poner imagen aqui <img src='' width='' height='' aling='center'> -->
+
+![](https://badgen.net/static/Twitter/Online/cyan?icon=X)
+![](https://badgen.net/static/Discord/Online/purple?icon=Discord)
+![](https://badgen.net/static/Youtube/Online/red?icon=Youtube)
+![](https://badgen.net/static/Reddit/Online/orange?icon=Reddit)
+![](https://badgen.net/static/AdictoalCafe/Always/brown?icon=buymeacoffee)
+![](https://badgen.net/static/JavaScript/Online/yellow?icon=JavaScript)
+![](https://badgen.net/static/VisualStudio/Online/blue?icon=visualstudio)
+![](https://badgen.net/static/Chrome/Online/red?icon=Chrome)
+![](https://badgen.net/static/Windows/Online/cyan?icon=windows)
+![](https://badgen.net/static/Github/Online/blue?icon=github)
+
+## Bienvenidos a mi Perfil
 
 <!--
 **Diegond24/Diegond24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
