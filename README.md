@@ -1,4 +1,4 @@
-<h1 align='center'> Hola, soy Diego Pineda👋</h1> 
+<h1 align='center'> Hola, soy Diego Pineda👋💯</h1> 
 
 <!-- Poner imagen aqui <img src='' width='' height='' aling='center'> -->
 
@@ -13,7 +13,16 @@
 ![](https://badgen.net/static/Windows/Online/cyan?icon=windows)
 ![](https://badgen.net/static/Github/Online/blue?icon=github)
 
-## Bienvenidos a mi Perfil
+## Bienvenidos a mi Perfil 👨‍💻🚀🔥💯
+
+<p> Sobre mi: </p>
+<ul>
+  <li>🖥️Ingeniero en sistemas en proceso</li>
+  <li>👨‍💻Tecnico en informatica en proceso</li>
+  <li>Aprendiendo JavaScript</li>
+  <li>Aprendiendo Bases de Datos (SQL) </li>
+  <li></li>
+</ul>
 
 <!--
 **Diegond24/Diegond24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
