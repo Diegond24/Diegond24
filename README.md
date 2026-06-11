@@ -1,6 +1,6 @@
 <h1 align='center'> Hola, soy Diego Pineda👋💯</h1> 
 
-<!-- Poner imagen aqui <img src='' width='' height='' aling='center'> -->
+<img src='/images/banner github.png' width='800' height='800' align='center'>
 
 ![](https://badgen.net/static/Twitter/Online/cyan?icon=X)
 ![](https://badgen.net/static/Discord/Online/purple?icon=Discord)
